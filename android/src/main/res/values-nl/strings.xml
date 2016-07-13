@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Mozilla Stumbler</string>
-    <string name="action_about">Over Mozilla Stumbler</string>
+    <string name="app_name">BBOXX Stumbler</string>
+    <string name="action_about">Over BBOXX Stumbler</string>
     <string name="action_preferences">Instellingen</string>
     <!--<string name="action_upload_observations">Upload observations</string> translation missing-->
     <string name="start_scanning">Begin met scannen</string>
     <string name="stop_scanning">Stop met scannen</string>
     <string name="view_leaderboard">Bekijk scorebord</string>
-    <string name="service_name">Mozilla Stumbler</string>
+    <string name="service_name">BBOXX Stumbler</string>
     <!--<string name="wifi_disabled">0 (Wi-Fi disabled)</string> translation missing-->
     <!--<string name="coordinate">%1$.4f, %2$.4f</string> translation missing-->
     <string name="enter_nickname">Alias (niet verplicht)</string>
     <string name="enter_nickname_title">Alias: %1$s</string>
     <string name="enter_nickname_longtext">Alias wordt gepubliceerd op het scorebord.</string>
-    <string name="update_title">Download Mozilla Stumbler-update?</string>
+    <string name="update_title">Download BBOXX Stumbler-update?</string>
     <string name="update_message">Geïnstalleerde versie: %1$s\nMeeste recente versie: %2$s</string>
     <string name="update_now">Nu updaten</string>
     <string name="update_later">Later updaten</string>

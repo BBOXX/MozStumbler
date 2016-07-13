@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Mozilla Stumbler</string>
-    <string name="action_about">Mozilla Stumbler সম্পর্কে</string>
+    <string name="app_name">BBOXX Stumbler</string>
+    <string name="action_about">BBOXX Stumbler সম্পর্কে</string>
     <string name="action_preferences">সেটিংস</string>
     <string name="start_scanning">স্ক্যান চালু করুন</string>
     <string name="stop_scanning">স্ক্যান বন্ধ করুন</string>
     <string name="view_leaderboard">লীডারবোর্ড দেখুন</string>
-    <string name="service_name">Mozilla Stumbler</string>
+    <string name="service_name">BBOXX Stumbler</string>
     <string name="enter_nickname">নাম প্রবেশ করুন (ঐচ্ছিক)</string>
     <string name="enter_nickname_title">নাম: %1$s</string>
     <string name="enter_nickname_longtext">আপনার নাম লীডারবোর্ডে দেখানো হবে</string>
-    <string name="update_title">Mozilla Stumbler আপডেট ডাউনলোড করবেন?</string>
+    <string name="update_title">BBOXX Stumbler আপডেট ডাউনলোড করবেন?</string>
     <string name="update_message">ইন্সটলকৃত সংস্করণ: %1$s\nসর্বশেষ সংস্করণ: %2$s</string>
     <string name="update_now">এক্ষুনি আপডেট করুন</string>
     <string name="update_later">পরে আপডেট করুন</string>

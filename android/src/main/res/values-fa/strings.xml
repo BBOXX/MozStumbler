@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Mozilla Stumbler</string>
-    <string name="action_about">دربارهٔ Mozilla Stumbler</string>
+    <string name="app_name">BBOXX Stumbler</string>
+    <string name="action_about">دربارهٔ BBOXX Stumbler</string>
     <string name="action_preferences">تنظیمات</string>
     <string name="start_scanning">شروع اسکن</string>
     <string name="stop_scanning">توقف اسکن</string>
     <string name="view_leaderboard">مشاهدهٔ برد بالاترین‌ها</string>
-    <string name="service_name">Mozilla Stumbler</string>
+    <string name="service_name">BBOXX Stumbler</string>
     <string name="enter_nickname">ورود نام اختصاری (اختیاری)</string>
     <string name="enter_nickname_title">%1$s :نام اختصاری</string>
     <string name="enter_nickname_longtext">نام اختصاری شما در برد بالاترین‌های ظاهر خواهد شد.</string>
-    <string name="update_title">دریافت Mozilla Stumbler به‌روزشده؟</string>
+    <string name="update_title">دریافت BBOXX Stumbler به‌روزشده؟</string>
     <string name="update_message">نسخهٔ نصب‌شده: %1$s\nآخرین نسخه: %2$s</string>
     <string name="update_now">الآن به‌روز شود</string>
     <string name="update_later">بعداً به‌روز شود</string>

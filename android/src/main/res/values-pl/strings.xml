@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Mozilla Stumbler</string>
-    <string name="action_about">O Mozilla Stumblerze</string>
+    <string name="app_name">BBOXX Stumbler</string>
+    <string name="action_about">O BBOXX Stumblerze</string>
     <string name="action_preferences">Ustawienia</string>
     <string name="start_scanning">Rozpocznij skanowanie</string>
     <string name="stop_scanning">Zatrzymaj skanowanie</string>
     <string name="view_leaderboard">Wyświetl ranking</string>
-    <string name="service_name">Mozilla Stumbler</string>
+    <string name="service_name">BBOXX Stumbler</string>
     <string name="notification_scanning">%1$s skanuje</string>
     <string name="notification_paused">%1$s jest wstrzymany</string>
     <string name="enter_nickname">Wpisz pseudonim (opcjonalnie)</string>
     <string name="enter_nickname_title">Pseudonim: %1$s</string>
     <string name="enter_nickname_longtext">Twój pseudonim pojawi się w rankingu.</string>
-    <string name="update_title">Pobrać aktualizację Mozilla Stumblera?</string>
+    <string name="update_title">Pobrać aktualizację BBOXX Stumblera?</string>
     <string name="update_message">Zainstalowana wersja: %1$s\nNajnowsza wersja: %2$s</string>
     <string name="update_now">Zaktualizuj teraz</string>
     <string name="update_later">Zaktualizuj później</string>
@@ -103,7 +103,7 @@
     <string name="kml_file_saved_name">Zapisany plik:</string>
     <string name="loading_kml">Wczytywanie pliku KML</string>
     <string name="saving_kml">Zapisywanie pliku KML</string>
-    <string name="mozstumbler_kml_file">Plik KML programu Mozilla Stumbler</string>
+    <string name="mozstumbler_kml_file">Plik KML programu BBOXX Stumbler</string>
     <string name="kml_file_saved">Zapisano plik KML</string>
     <string name="share_after_kml_saved">Zapisano plik na urządzeniu, wysłać go?</string>
 
@@ -113,7 +113,7 @@
     <string name="gpx_file_description">Zapisywanie położeń jako plik ścieżek GPX.</string>
     <string name="gpx_file_saved_name">Zapisany plik:</string>
     <string name="saving_gpx">Zapisywanie pliku GPX w %1$s</string>
-    <string name="mozstumbler_gpx_file">Plik GPX programu Mozilla Stumbler</string>
+    <string name="mozstumbler_gpx_file">Plik GPX programu BBOXX Stumbler</string>
     <string name="gpx_file_saved">Zapisano plik GPX</string>
     <string name="share_after_gpx_saved">Zapisano plik na urządzeniu, wysłać go?</string>
 
@@ -136,7 +136,7 @@
     <string name="first_run_message_part1">Mozilla Location Service jest otwartą usługą do ustalania położenia urządzeń za pomocą sieci Wi-Fi i komórkowych.</string>
     <string name="first_run_message_part2">Prosimy przeczytać <a href="https://location.services.mozilla.com/privacy">politykę prywatności</a>, a następnie zacząć pomagać, wysyłając swoje położenie.</string>
     <string name="first_run_start_stumbling">Rozpocznij skanowanie</string>
-    <string name="first_run_welcome_to_mozstumbler">Witaj w Mozilla Stumblerze</string>
+    <string name="first_run_welcome_to_mozstumbler">Witaj w BBOXX Stumblerze</string>
     <string name="map_unavailable">Nie można wyświetlić mapy, ponieważ urządzenie nie posiada karty pamięci SD.\nNadal można zbierać dane.</string>
     <string name="map_offline_mode">Mapa nie będzie aktualizowana bez połączenie z Internetem,\nale nadal można zbierać dane.</string>
     <string name="map_copyright_fdroid">Widok mapy dzięki firmie MapQuest\n© Współtwórcy projektu OpenStreetMap</string>

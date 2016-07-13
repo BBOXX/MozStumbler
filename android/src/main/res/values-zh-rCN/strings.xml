@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Mozilla Stumbler</string>
-    <string name="action_about">关于 Mozilla Stumbler</string>
+    <string name="app_name">BBOXX Stumbler</string>
+    <string name="action_about">关于 BBOXX Stumbler</string>
     <string name="action_preferences">设置</string>
     <string name="start_scanning">开始扫描</string>
     <string name="stop_scanning">停止扫描</string>
     <string name="view_leaderboard">查看积分榜</string>
-    <string name="service_name">Mozilla Stumbler</string>
+    <string name="service_name">BBOXX Stumbler</string>
     <string name="enter_nickname">输入昵称 (可选)</string>
     <string name="enter_nickname_title">昵称: %1$s</string>
     <string name="enter_nickname_longtext">你的昵称将被显示在积分榜中</string>
-    <string name="update_title">下载 Mozilla Stumbler 更新？</string>
+    <string name="update_title">下载 BBOXX Stumbler 更新？</string>
     <string name="update_message">当前版本: %1$s\n最新版本: %2$s</string>
     <string name="update_now">现在更新</string>
     <string name="update_later">稍后更新</string>
@@ -63,7 +63,7 @@
     <string name="are_you_sure">你确定吗？</string>
     <string name="loading_kml">正在加载 KML</string>
     <string name="saving_kml">正在保存 KML</string>
-    <string name="mozstumbler_kml_file">Mozilla Stumbler KML 文件</string>
+    <string name="mozstumbler_kml_file">BBOXX Stumbler KML 文件</string>
     <string name="share_file">分享文件</string>
     <string name="load_file">加载文件</string>
     <string name="delete_file">删除文件</string>
@@ -79,7 +79,7 @@
     <string name="first_run_message_part1">Mozilla Location Service 是基于 Wi-Fi 和移动基站进行定位的开放服务</string>
     <string name="first_run_message_part2">阅读我们的 <a href="https://location.services.mozilla.com/privacy">隐私政策</a> 并按“开始收集”来贡献您所在位置的信息</string>
     <string name="first_run_start_stumbling">开始收集</string>
-    <string name="first_run_welcome_to_mozstumbler">欢迎使用 Mozilla Stumbler</string>
+    <string name="first_run_welcome_to_mozstumbler">欢迎使用 BBOXX Stumbler</string>
     <string name="map_unavailable">缺少 SD 存储卡，地图无法显示\n但你仍然可以收集数据</string>
     <string name="map_offline_mode">无法连接到互联网，地图无法更新\n但你仍然可以收集数据</string>
     <string name="action_developer">开发者</string>

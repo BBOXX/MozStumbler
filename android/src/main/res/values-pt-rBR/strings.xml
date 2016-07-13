@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Mozilla Stumbler</string>
-    <string name="action_about">Sobre o Mozilla Stumbler</string>
+    <string name="app_name">BBOXX Stumbler</string>
+    <string name="action_about">Sobre o BBOXX Stumbler</string>
     <string name="action_preferences">Configurações</string>
     <!--<string name="action_upload_observations">Upload observations</string> translation missing-->
     <string name="start_scanning">Começar a escanear</string>
     <string name="stop_scanning">Parar de escanear</string>
     <string name="view_leaderboard">Ver ranking</string>
-    <string name="service_name">Mozilla Stumbler</string>
+    <string name="service_name">BBOXX Stumbler</string>
     <!--<string name="wifi_disabled">0 (Wi-Fi disabled)</string> translation missing-->
     <!-- translations missing
     <string name="cells_scanned">Cells Scanned: %1$d</string>
@@ -17,7 +17,7 @@
     <string name="enter_nickname_longtext">Seu nickname aparecerá no ranking.</string>
 
     <!--translations missing
-    <string name="update_title">Baixar atualizações do Mozilla Stumbler?</string>
+    <string name="update_title">Baixar atualizações do BBOXX Stumbler?</string>
     <string name="update_message">Versão Instalada: %1$s\nLatest version: %2$s</string>
     <string name="update_now">Atualizar Agora</string>
     <string name="update_later">Atualizar Depois</string>

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Mozilla Stumbler</string>
-    <string name="action_about">Mozilla Stumbler Hakkında</string>
+    <string name="app_name">BBOXX Stumbler</string>
+    <string name="action_about">BBOXX Stumbler Hakkında</string>
     <string name="action_preferences">Ayarlar</string>
     <string name="start_scanning">Taramayı Başlat</string>
     <string name="stop_scanning">Taramayı Durdur</string>
     <string name="view_leaderboard">Puan Durumunu Göster</string>
-    <string name="service_name">Mozilla Stumbler</string>
+    <string name="service_name">BBOXX Stumbler</string>
     <string name="notification_scanning">%1$s tarama yapıyor</string>
     <string name="notification_paused">%1$s duraklatıldı</string>
     <string name="enter_nickname">Takma adınızı yazın (isteğe bağlı)</string>
     <string name="enter_nickname_title">Takma ad: %1$s</string>
     <string name="enter_nickname_longtext">Takma adınız puan durumunda gözükecek.</string>
-    <string name="update_title">Mozilla Stumbler güncellemesi indirilsin mi?</string>
+    <string name="update_title">BBOXX Stumbler güncellemesi indirilsin mi?</string>
     <string name="update_message">Kurulu sürüm: %1$s\nSon sürüm: %2$s</string>
     <string name="update_now">Şimdi Güncelle</string>
     <string name="update_later">Sonra Güncelle</string>
@@ -102,7 +102,7 @@
     <string name="are_you_sure">Emin misiniz?</string>
     <string name="loading_kml">KML yükleniyor</string>
     <string name="saving_kml">KML kaydediliyor</string>
-    <string name="mozstumbler_kml_file">Mozilla Stumbler KML dosyası</string>
+    <string name="mozstumbler_kml_file">BBOXX Stumbler KML dosyası</string>
     <string name="share_file">Dosyayı paylaş</string>
     <string name="load_file">Dosyayı yükle</string>
     <string name="delete_file">Dosyayı sil</string>
@@ -118,7 +118,7 @@
     <string name="first_run_message_part1">Mozilla Konum Hizmeti kablosuz ağları ve baz istasyonlarını kullanarak cihazların konumunu bulmaya yarayan açık bir hizmettir.</string>
     <string name="first_run_message_part2">Lütfen <a href="https://location.services.mozilla.com/privacy">gizlilik politikamızı</a> okuyup geçerli konumunuzu bildirmek için veri toplamaya başlayın.</string>
     <string name="first_run_start_stumbling">Taramaya Başla</string>
-    <string name="first_run_welcome_to_mozstumbler">Mozilla Stumbler\'a Hoş Geldiniz</string>
+    <string name="first_run_welcome_to_mozstumbler">BBOXX Stumbler\'a Hoş Geldiniz</string>
     <string name="map_unavailable">Harita gösterilemiyor, çünkü cihaza takılı hafıza kartı yok.\nAma yine de veri toplayabilirsiniz.</string>
     <string name="map_offline_mode">İnternet bağlantısı olmadan harita güncellenmeyecek,\nama yine de veri toplayabilirsiniz.</string>
     <string name="map_copyright_fdroid">Harita Parçalarını Sağlayanlar: MapQuest\n© OpenStreetMap\'e katkıda bulunanlar</string>

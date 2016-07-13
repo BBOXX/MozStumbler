@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Mozilla Stumbler</string>
-    <string name="action_about">על אודות Mozilla Stumbler</string>
+    <string name="app_name">BBOXX Stumbler</string>
+    <string name="action_about">על אודות BBOXX Stumbler</string>
     <string name="action_preferences">העדפות</string>
     <string name="start_scanning">התחלת הסריקה</string>
     <string name="stop_scanning">עצירת הסריקה</string>
@@ -10,7 +10,7 @@
     <string name="enter_nickname">הזנת שם המשתמש (רשות)</string>
     <string name="enter_nickname_title">כינוי: %1$s</string>
     <string name="enter_nickname_longtext">הכינוי שלך יופיע בלוח המובילים.</string>
-    <string name="update_title">האם להוריד עדכון ל־Mozilla Stumbler?</string>
+    <string name="update_title">האם להוריד עדכון ל־BBOXX Stumbler?</string>
     <string name="update_message">הגרסה המותקנת: %1$s\nהגרסה העדכנית: %2$s</string>
     <string name="update_now">לעדכן כעת</string>
     <string name="update_later">לעדכן מאוחר יותר</string>

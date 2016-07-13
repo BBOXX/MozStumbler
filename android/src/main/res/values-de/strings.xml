@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- <string name="app_name">Mozilla Stumbler</string> -->
-    <string name="action_about">Über Mozilla Stumbler</string>
+    <!-- <string name="app_name">BBOXX Stumbler</string> -->
+    <string name="action_about">Über BBOXX Stumbler</string>
     <string name="action_preferences">Einstellungen</string>
     <string name="start_scanning">Scanvorgang starten</string>
     <string name="stop_scanning">Scanvorgang stoppen</string>
     <string name="view_leaderboard">Bestenliste ansehen</string>
-    <!-- <string name="service_name">Mozilla Stumbler</string> -->
+    <!-- <string name="service_name">BBOXX Stumbler</string> -->
     <string name="notification_scanning">%1$s scannt</string>
     <string name="notification_paused">%1$s ist pausiert</string>
     <string name="enter_nickname">Namen eingeben (optional)</string>
     <string name="enter_nickname_title">Name: %1$s</string>
     <string name="enter_nickname_longtext">Dieser Name wird in der Bestenliste erscheinen.</string>
-    <string name="update_title">Mozilla Stumbler Aktualisierung herunterladen?</string>
+    <string name="update_title">BBOXX Stumbler Aktualisierung herunterladen?</string>
     <string name="update_message">Installierte Version: %1$s\nAktuellste Version: %2$s</string>
     <string name="update_now">Jetzt aktualisieren</string>
     <string name="update_later">Später aktualisieren</string>
@@ -99,7 +99,7 @@
     <string name="kml_file_saved_name">Gespeicherte Datei:</string>
     <string name="loading_kml">KML wird geladen</string>
     <string name="saving_kml">KML wird gespeichert</string>
-    <string name="mozstumbler_kml_file">Mozilla Stumbler KML Datei</string>
+    <string name="mozstumbler_kml_file">BBOXX Stumbler KML Datei</string>
     <string name="kml_file_saved">KML gespeichert</string>
     <string name="share_after_kml_saved">Die Datei wurde auf dem Gerät gespeichert, möchten Sie sie teilen?</string>
 
@@ -109,7 +109,7 @@
     <string name="gpx_file_description">Positionen als GPX Track Datei speichern.</string>
     <string name="gpx_file_saved_name">Gespeicherte Datei:</string>
     <string name="saving_gpx">Speichere GPX als %1$s</string>
-    <string name="mozstumbler_gpx_file">Mozilla Stumbler GPX Datei</string>
+    <string name="mozstumbler_gpx_file">BBOXX Stumbler GPX Datei</string>
     <string name="gpx_file_saved">GPX gespeichert</string>
     <string name="share_after_gpx_saved">Die Datei wurde auf dem Gerät gespeichert, möchten Sie sie teilen?</string>
 
@@ -132,7 +132,7 @@
     <string name="first_run_message_part1">Der Mozilla Ortungsdienst ist ein offener Dienst zur Ortung von Geräten unter der Verwendung von WLAN-Netzwerken und Funkzellen.</string>
     <string name="first_run_message_part2">Lesen Sie unsere <a href="https://location.services.mozilla.com/privacy">Datenschutzerklärung</a> und fangen Sie dann an zu Scannen, um Ihren aktuellen Standort beizusteuern.</string>
     <string name="first_run_start_stumbling">Scannen starten</string>
-    <string name="first_run_welcome_to_mozstumbler">Willkommen bei Mozilla Stumbler</string>
+    <string name="first_run_welcome_to_mozstumbler">Willkommen bei BBOXX Stumbler</string>
     <string name="map_unavailable">Die Karte kann nicht angezeigt werden, da kein SD-Kartenspeicher vorhanden ist.\nSie können aber immer noch Daten sammeln.</string>
     <string name="map_offline_mode">Die Karte kann ohne eine verfügbare Internetverbindung nicht aktualisiert werden.\nSie können aber immer noch Daten sammeln.</string>
     <string name="map_copyright_fdroid">Kacheln bereitgestellt durch MapQuest\n© OpenStreetMap-Mitwirkende</string>

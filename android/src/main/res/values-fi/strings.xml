@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Mozilla Stumbler</string>
+    <string name="app_name">BBOXX Stumbler</string>
     <string name="action_about">Tietoja</string>
     <string name="action_preferences">Asetukset</string>
     <string name="start_scanning">Aloita skannaus</string>
     <string name="stop_scanning">Lopeta skannaus</string>
     <string name="view_leaderboard">Näytä pistetilastot</string>
-    <string name="service_name">Mozilla Stumbler</string>
+    <string name="service_name">BBOXX Stumbler</string>
     <string name="notification_scanning">%1$s skannaa</string>
     <string name="notification_paused">%1$s on pysäytetty</string>
     <string name="enter_nickname">Anna lempinimi (vapaaehtoinen)</string>
     <string name="enter_nickname_title">Lempinimi: %1$s</string>
     <string name="enter_nickname_longtext">Lempinimesi näkyy pistetilastoissa.</string>
-    <string name="update_title">Lataa Mozilla Stumblerin päivitys?</string>
+    <string name="update_title">Lataa BBOXX Stumblerin päivitys?</string>
     <string name="update_message">Asennettu versio: %1$s\nUusin versio: %2$s</string>
     <string name="update_now">Päivitä nyt</string>
     <string name="update_later">Päivitä myöhemmin</string>
@@ -74,7 +74,7 @@
     <string name="are_you_sure">Oletko varma?</string>
     <string name="loading_kml">Ladataan KML</string>
     <string name="saving_kml">Tallennetaan KML</string>
-    <string name="mozstumbler_kml_file">Mozilla Stumbler KML -tiedosto</string>
+    <string name="mozstumbler_kml_file">BBOXX Stumbler KML -tiedosto</string>
     <string name="share_file">Jaa tiedosto</string>
     <string name="load_file">Lataa tiedosto</string>
     <string name="delete_file">Poista tiedosto</string>
@@ -90,7 +90,7 @@
     <string name="first_run_message_part1">Mozillan paikannuspalvelu on avoin palvelu paikannukseen Wi-Fi- ja kännykkäverkoilla.</string>
     <string name="first_run_message_part2">Lue <a href="https://location.services.mozilla.com/privacy">yksityisyyden suojasta</a> (englanniksi) ja aloita tietojen kerääminen.</string>
     <string name="first_run_start_stumbling">Aloita tietojen jakaminen</string>
-    <string name="first_run_welcome_to_mozstumbler">Tervetuloa Mozilla Stumbleriin</string>
+    <string name="first_run_welcome_to_mozstumbler">Tervetuloa BBOXX Stumbleriin</string>
     <string name="map_unavailable">Kartta ei ole saatavilla. Muistikortilla ei ole tilaa.\nVoit silti kerätä ja jakaa tietoa.</string>
     <string name="map_offline_mode">Kartta ei päivity ilman internet-yhteyttä.\nVoit silti kerätä tietoja.</string>
     <string name="map_copyright_fdroid">Karttaruudut MapQuestilta\n© OpenStreetMapin tekijät</string>

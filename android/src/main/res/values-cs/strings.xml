@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!--<string name="app_name">Mozilla Stumbler</string>-->
+    <!--<string name="app_name">BBOXX Stumbler</string>-->
     <string name="action_about">O aplikaci</string>
     <string name="action_preferences">Nastavení</string>
     <string name="start_scanning">Spustit sběr dat</string>
     <string name="stop_scanning">Zastavit sběr dat</string>
     <string name="view_leaderboard">Zobrazit žebříček</string>
-    <!--<string name="service_name">Mozilla Stumbler</string>-->
+    <!--<string name="service_name">BBOXX Stumbler</string>-->
     <string name="notification_scanning">%1$s sbírá data</string>
     <string name="notification_paused">%1$s je pozastavený</string>
     <string name="enter_nickname">Vložte přezdívku (nepovinné)</string>
     <string name="enter_nickname_title">Přezdívka: %1$s</string>
     <string name="enter_nickname_longtext">Vaše přezdívka se zobrazí v žebříčku.</string>
-    <string name="update_title">Stáhnout aktualizaci Mozilla Stumbler?</string>
+    <string name="update_title">Stáhnout aktualizaci BBOXX Stumbler?</string>
     <string name="update_message">Nainstalovaná verze: %1$s\nNejnovější verze: %2$s</string>
     <string name="update_now">Aktualizovat nyní</string>
     <string name="update_later">Aktualizovat později</string>
@@ -106,7 +106,7 @@
     <string name="are_you_sure">Jste si jisti?</string>
     <string name="loading_kml">Načítání KML</string>
     <string name="saving_kml">Ukládání KML</string>
-    <string name="mozstumbler_kml_file">Mozilla Stumbler KML soubor</string>
+    <string name="mozstumbler_kml_file">BBOXX Stumbler KML soubor</string>
     <string name="share_file">Sdílet soubor</string>
     <string name="load_file">Načíst soubor</string>
     <string name="delete_file">Smazat soubor</string>
@@ -122,7 +122,7 @@
     <string name="first_run_message_part1">Mozilla Location Service je otevřená služba pro určení pozice pomocí Wi-Fi a mobilních sítí.</string>
     <string name="first_run_message_part2">Přečtěte si naše <a href="https://location.services.mozilla.com/privacy">zásady ochrany soukromí</a> a poté můžete začít sbírat data a přispět daty z vaší současné pozice.</string>
     <string name="first_run_start_stumbling">Začít sbírat data</string>
-    <string name="first_run_welcome_to_mozstumbler">Vítejte v aplikaci Mozilla Stumbler</string>
+    <string name="first_run_welcome_to_mozstumbler">Vítejte v aplikaci BBOXX Stumbler</string>
     <string name="map_unavailable">Mapu nelze zobrazit, jelikož nebyla nalezena žádné úložiště na SD kartě.\nStále ale můžete sbírat data.</string>
     <string name="map_offline_mode">Mapa nebude aktualizována bez internetového připojení,\nnicméně data můžete stále sbírat.</string>
     <string name="map_copyright_fdroid">Tiles Courtesy of MapQuest\n© přispěvatelé OpenStreetMap</string>
