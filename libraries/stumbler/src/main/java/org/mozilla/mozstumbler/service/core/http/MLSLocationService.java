@@ -13,8 +13,8 @@ import java.util.Map;
 public class MLSLocationService implements ILocationService {
     public static final String NICKNAME_HEADER = "X-Nickname";
     public static final String EMAIL_HEADER = "X-Email";
-    private static final String SEARCH_URL = "https://location.services.mozilla.com/v1/geolocate";
-    private static final String SUBMIT_URL = "https://location.services.mozilla.com/v1/geosubmit";
+    private static final String SEARCH_URL = "http://location.bboxx.co.uk/v1/geolocate";
+    private static final String SUBMIT_URL = "http://location.bboxx.co.uk/v1/geosubmit";
     final IHttpUtil httpDelegate = (IHttpUtil) ServiceLocator.getInstance().getService(IHttpUtil.class);
 
     private String mozApiKey;

@@ -382,7 +382,8 @@ public class MapFragment extends android.support.v4.app.Fragment
             System.gc();
 
             if (!isMLSTileStore) {
-                mHighResMapSource = TileSourceFactory.MAPQUESTOSM;
+                // MAPQUESTOSM is no longer free. Use this one instead...
+                mHighResMapSource = TileSourceFactory.MAPNIK;
             } else {
                 mHighResMapSource = new XYTileSource(AbstractMapOverlay.MLS_MAP_TILE_BASE_NAME,
                         null, 1, AbstractMapOverlay.MAX_ZOOM_LEVEL_OF_MAP,

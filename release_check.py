@@ -4,7 +4,7 @@ import sys
 import os
 import os.path
 
-BUILD_PATH = '/home/ec2-user/MozStumbler/android/build/outputs/apk'
+BUILD_PATH = 'android/build/outputs/apk'
 for file in os.listdir(BUILD_PATH):
     fname = os.path.join(BUILD_PATH, file)
     print 'removing: [%s]' % fname
@@ -18,5 +18,5 @@ for line in open('android/properties/private-%s.properties' % sys.argv[-1]):
         continue
     k, v = line.strip().split('=')
     props[k] = v
-assert 'MapAPIKey' in props, 'MapAPIKey is ok'
+#assert 'MapAPIKey' in props, 'MapAPIKey is ok'
 assert 'MozAPIKey' in props, 'MozAPIKey is ok'
