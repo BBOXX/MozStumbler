@@ -1,7 +1,9 @@
 // each of the version numbers must be 0-99
+// adding an extra version number level for the BBOXX variant (we forked from MozStumbler version 1.8.6)
 def versionMajor = 1
 def versionMinor = 8 // minor feature releases
 def versionPatch = 6 // This should be bumped for hot fixes
+def versionBBOXX = 1
 
 // Double check the versioning
 for (versionPart in [versionPatch, versionMinor, versionMajor]) {
@@ -55,10 +57,10 @@ android {
         minSdkVersion 10
         targetSdkVersion 18
 
-        applicationId "org.mozilla.mozstumbler"
+        applicationId "org.bboxx.stumbler"
 
-        versionCode versionMajor * 1000000 + versionMinor * 10000 + versionPatch * 100
-        versionName "${versionMajor}.${versionMinor}.${versionPatch}"
+        versionCode versionMajor * 1000000 + versionMinor * 10000 + versionPatch * 100 + versionBBOXX * 10
+        versionName "${versionMajor}.${versionMinor}.${versionPatch}-${versionBBOXX}"
 
         buildConfigField "boolean", "ROBOLECTRIC", "false"
         buildConfigField "String", "MOZILLA_API_KEY", "\"\""

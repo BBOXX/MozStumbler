@@ -24,7 +24,8 @@ allprojects {
     }
 }
 
-version = "1.8.6"
+// adding an extra version number level for the BBOXX variant (we forked from MozStumbler version 1.8.6)
+version = "1.8.6-1"
 group = 'org.mozilla.mozstumbler'
 
 // The groupname will be changed into a path for the final library
