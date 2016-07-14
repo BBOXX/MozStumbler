@@ -510,7 +510,7 @@ public class MapFragment extends android.support.v4.app.Fragment
     private void showCopyright() {
         TextView copyrightArea = (TextView) mRootView.findViewById(R.id.copyright_area);
         if (BuildConfig.TILE_SERVER_URL == null) {
-            copyrightArea.setText(getActivity().getString(R.string.map_copyright_fdroid));
+            copyrightArea.setText(getActivity().getString(R.string.map_copyright_bboxx));
         } else {
             copyrightArea.setText(getActivity().getString(R.string.map_copyright_moz));
         }

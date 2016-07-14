@@ -139,6 +139,7 @@
     <string name="first_run_welcome_to_mozstumbler">Witaj w BBOXX Stumblerze</string>
     <string name="map_unavailable">Nie można wyświetlić mapy, ponieważ urządzenie nie posiada karty pamięci SD.\nNadal można zbierać dane.</string>
     <string name="map_offline_mode">Mapa nie będzie aktualizowana bez połączenie z Internetem,\nale nadal można zbierać dane.</string>
+    <string name="map_copyright_bboxx">Widok mapy dzięki firmie OpenStreetMap\n© Współtwórcy projektu OpenStreetMap</string>
     <string name="map_copyright_fdroid">Widok mapy dzięki firmie MapQuest\n© Współtwórcy projektu OpenStreetMap</string>
     <string name="map_copyright_moz">© MapBox © Współtwórcy projektu OpenStreetMap</string>
     <string name="action_developer">Opcje programistyczne</string>

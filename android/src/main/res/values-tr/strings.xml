@@ -121,6 +121,7 @@
     <string name="first_run_welcome_to_mozstumbler">BBOXX Stumbler\'a Hoş Geldiniz</string>
     <string name="map_unavailable">Harita gösterilemiyor, çünkü cihaza takılı hafıza kartı yok.\nAma yine de veri toplayabilirsiniz.</string>
     <string name="map_offline_mode">İnternet bağlantısı olmadan harita güncellenmeyecek,\nama yine de veri toplayabilirsiniz.</string>
+    <string name="map_copyright_bboxx">Harita Parçalarını Sağlayanlar: OpenStreetMap\n© OpenStreetMap\'e katkıda bulunanlar</string>
     <string name="map_copyright_fdroid">Harita Parçalarını Sağlayanlar: MapQuest\n© OpenStreetMap\'e katkıda bulunanlar</string>
     <string name="map_copyright_moz">© MapBox © OpenStreetMap\'e katkıda bulunanlar</string>
     <string name="action_developer">Geliştirici</string>

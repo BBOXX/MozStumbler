@@ -93,6 +93,7 @@
     <string name="first_run_welcome_to_mozstumbler">Tervetuloa BBOXX Stumbleriin</string>
     <string name="map_unavailable">Kartta ei ole saatavilla. Muistikortilla ei ole tilaa.\nVoit silti kerätä ja jakaa tietoa.</string>
     <string name="map_offline_mode">Kartta ei päivity ilman internet-yhteyttä.\nVoit silti kerätä tietoja.</string>
+    <string name="map_copyright_bboxx">Karttaruudut OpenStreetMapin\n© OpenStreetMapin tekijät</string>
     <string name="map_copyright_fdroid">Karttaruudut MapQuestilta\n© OpenStreetMapin tekijät</string>
     <string name="map_copyright_moz">© MapBox © OpenStreetMapin tekijät</string>
     <string name="action_developer">Kehittäjä</string>

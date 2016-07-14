@@ -125,6 +125,7 @@
     <string name="first_run_welcome_to_mozstumbler">Vítejte v aplikaci BBOXX Stumbler</string>
     <string name="map_unavailable">Mapu nelze zobrazit, jelikož nebyla nalezena žádné úložiště na SD kartě.\nStále ale můžete sbírat data.</string>
     <string name="map_offline_mode">Mapa nebude aktualizována bez internetového připojení,\nnicméně data můžete stále sbírat.</string>
+    <string name="map_copyright_bboxx">Tiles Courtesy of OpenStreetMap\n© přispěvatelé OpenStreetMap</string>
     <string name="map_copyright_fdroid">Tiles Courtesy of MapQuest\n© přispěvatelé OpenStreetMap</string>
     <string name="map_copyright_moz">© MapBox © přispěvatelé OpenStreetMap</string>
     <string name="action_developer">Vývojář</string>

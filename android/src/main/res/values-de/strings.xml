@@ -135,6 +135,7 @@
     <string name="first_run_welcome_to_mozstumbler">Willkommen bei BBOXX Stumbler</string>
     <string name="map_unavailable">Die Karte kann nicht angezeigt werden, da kein SD-Kartenspeicher vorhanden ist.\nSie können aber immer noch Daten sammeln.</string>
     <string name="map_offline_mode">Die Karte kann ohne eine verfügbare Internetverbindung nicht aktualisiert werden.\nSie können aber immer noch Daten sammeln.</string>
+    <string name="map_copyright_bboxx">Kacheln bereitgestellt durch OpenStreetMap\n© OpenStreetMap-Mitwirkende</string>
     <string name="map_copyright_fdroid">Kacheln bereitgestellt durch MapQuest\n© OpenStreetMap-Mitwirkende</string>
     <string name="map_copyright_moz">© MapBox © OpenStreetMap-Mitwirkende</string>
     <string name="action_developer">Entwickler</string>
