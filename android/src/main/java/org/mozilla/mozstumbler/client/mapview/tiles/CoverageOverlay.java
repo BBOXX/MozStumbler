@@ -8,7 +8,9 @@ import android.content.Context;
 import android.graphics.Color;
 
 import org.mozilla.mozstumbler.client.mapview.MapFragment;
+import org.mozilla.osmdroid.tileprovider.MapTile;
 import org.mozilla.osmdroid.tileprovider.tilesource.ITileSource;
+import org.mozilla.osmdroid.tileprovider.tilesource.OnlineTileSourceBase;
 import org.mozilla.osmdroid.tileprovider.tilesource.XYTileSource;
 import org.mozilla.osmdroid.tileprovider.util.SimpleInvalidationHandler;
 import org.mozilla.osmdroid.views.MapView;
@@ -35,12 +37,26 @@ public class CoverageOverlay extends AbstractMapOverlay {
     }
 
     private void setup(int zoomMinLevel, int zoomMaxLevel, final String coverageUrl, MapView mapView) {
-        final ITileSource coverageTileSource = new XYTileSource(MLS_MAP_TILE_COVERAGE_NAME,
+        // little hack to prevent the Coverage Overlay from being downloaded
+        final ITileSource coverageTileSource = new OnlineTileSourceBase(MLS_MAP_TILE_COVERAGE_NAME,
                 null,
                 zoomMinLevel, zoomMaxLevel,
                 AbstractMapOverlay.TILE_PIXEL_SIZE,
                 ".png",
-                new String[]{coverageUrl});
+                new String[]{coverageUrl}
+        )
+        {
+            @Override
+            public String getTileURLString(MapTile aTile) {
+                return null;
+            }
+        };
+//        final ITileSource coverageTileSource = new XYTileSource(MLS_MAP_TILE_COVERAGE_NAME,
+//                null,
+//                zoomMinLevel, zoomMaxLevel,
+//                AbstractMapOverlay.TILE_PIXEL_SIZE,
+//                ".png",
+//                new String[]{coverageUrl});
         this.setLoadingBackgroundColor(Color.TRANSPARENT);
         mTileProvider.setTileRequestCompleteHandler(new SimpleInvalidationHandler(mapView));
         mTileProvider.setTileSource(coverageTileSource);
