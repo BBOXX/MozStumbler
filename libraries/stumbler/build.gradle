@@ -31,8 +31,8 @@ group = 'org.mozilla.mozstumbler'
 // The groupname will be changed into a path for the final library
 // http://dl.bintray.com/crankycoder/libMozStumbler/com/crankycoder/stumbler/0.9.0/
 
-def siteUrl = 'https://github.com/mozilla/MozStumbler'
-def gitUrl = 'https://github.com/mozilla/MozStumbler.git'
+def siteUrl = 'https://github.com/BBOXX/MozStumbler'
+def gitUrl = 'https://github.com/BBOXX/MozStumbler.git'
 
 android {
     compileSdkVersion 23
