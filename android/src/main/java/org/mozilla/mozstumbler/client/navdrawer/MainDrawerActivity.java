@@ -278,11 +278,12 @@ public class MainDrawerActivity
 
         ClientPrefs prefs = ClientPrefs.getInstance(this);
         if (prefs.isFirstRun()) {
-            FragmentManager fm = getSupportFragmentManager();
-            FirstRunFragment.showInstance(fm);
+            // we are no longer displaying a dialog on first run. We just want the scanning to start automatically
             prefs.setDontShowChangelog();
-            MainApp.getAndSetHasBootedOnce();
-        } else if (!MainApp.getAndSetHasBootedOnce()) {
+            ClientPrefs.getInstance(this).setFirstRun(false);
+        }
+
+        if (!MainApp.getAndSetHasBootedOnce()) {
 
             long currentVersionNumber = BuildConfig.VERSION_CODE;
             long savedVersionNumber = prefs.getLastVersion();
